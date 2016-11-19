@@ -1,1 +1,2 @@
-some config added
+some config added again
+new config for git 
