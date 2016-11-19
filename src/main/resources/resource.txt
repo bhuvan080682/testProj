@@ -1,2 +1,3 @@
 some config added again
 new config for git 
+modified config file
